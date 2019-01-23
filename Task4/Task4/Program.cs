@@ -6,7 +6,7 @@ namespace Task4
     {
         static void Main(string[] args)
         {
-
+            //TODO: Make sure to add comments for program flow
             string cost = string.Empty;
             double pounds = 0.0;
 
